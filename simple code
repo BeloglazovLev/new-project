@@ -1,1 +1,7 @@
 print('hello anybody')
+print('let summ two digits')
+a = 0
+b = 0
+input(a)
+input(b)
+print(a + b)
